@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://fonts.googleapis.com/css?family=Inter:400,600,900|Merienda+One&display=swap" rel="stylesheet"> 
+    <script src="https://kit.fontawesome.com/7ae724db53.js" crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="css/style.css">
+    <title>Random Quote Machine</title>
+</head>
+<body>
+    <div class="circle-1"></div>
+    <div class="circle-2"></div>
+    <div class="container">
+        <blockquote id="quote-box">
+            <p id="text"></p>
+            <footer>
+                <div id="author">
+                    <div class="author__image"></div>
+                    <div id="author__text">
+                        <h3></h3>
+                        <p></p>
+                    </div>
+                </div>
+                <div class="button-and-tweet">
+                    <a href="https://twitter.com/intent/tweet" id="tweet-quote"><i class="fab fa-twitter"></i></a>
+                    <button id="new-quote">New Quote</button>
+                </div>
+            </footer>
+        </blockquote>
+    </div>
+    
+    <script type="text/javascript" src="js/quote-box.js"></script>
+    <script type="text/javascript" async src="https://platform.twitter.com/widgets.js"></script>
+</body>
+</html>
