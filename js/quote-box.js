@@ -1,4 +1,4 @@
-import quotes from "./data";
+import quotes from "./data.js";
 
 const container = document.querySelector('.container');
 const quoteBox = document.querySelector('#quote-box');
