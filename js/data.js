@@ -3,25 +3,25 @@ const quotes = [
         quote: "The best way to teach your kids about taxes is by eating 30% of their ice cream.",
         author: "Bill Murray",
         profession: "Actor",
-        image: "url(https://www.dropbox.com/s/oviqwgy25tnhamh/bill-murray.jpg?raw=1)"
+        image: "url(../img/bill-murray.jpg)"
     },
     {
         quote: "You know you're getting old when the candles cost more than the cake.",
         author: "Bob Hope",
         profession: "Comedian",
-        image: "url(https://www.dropbox.com/s/a5cm9m3bxld3w9r/bob-hope.jpg?raw=1)"
+        image: "url(../img/bob-hope.jpg)"
     },
     {
         quote: "I hope that when I die, people say about me, 'Boy, that guy sure owed me a lot of money.'",
         author: "Jack Handey",
         profession: "Humorist",
-        image: "url(https://www.dropbox.com/s/siuvidlmf3f1qgp/jack-handey.jpg?raw=1)"
+        image: "url(../img/jack-handey.jpg)"
     },
     {
         quote: "I love deadlines. I love the whooshing noise they make as they go by.",
         author: "Douglas Adams",
         profession: "Author",
-        image: "url(https://www.dropbox.com/s/puta5vk07hvkx4e/douglas-adams.jpg?raw=1)"
+        image: "url(../img/douglas-adams.jpg)"
     },
     {
         quote: "People say nothing is impossible, but I do nothing every day.",

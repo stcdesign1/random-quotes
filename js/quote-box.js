@@ -13,8 +13,6 @@ const fbIcon = document.querySelector('.fab');
 
 let lastNum;
 
-console.log(quotes)
-
 function getRandomInt() {
     let randInt = Math.floor(Math.random() * 23 + 1);
     if (lastNum === randInt) {
