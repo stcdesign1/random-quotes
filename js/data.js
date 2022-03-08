@@ -27,121 +27,121 @@ const quotes = [
         quote: "People say nothing is impossible, but I do nothing every day.",
         author: "A.A. Milne",
         profession: "Author",
-        image: "url(https://www.dropbox.com/s/b8xn6rl48cw80xl/a-milne.jpg?raw=1)"
+        image: "url(../img/a-milne.jpg)"
     },
     {
         quote: "What if everything is an illusion and nothing exists? In that case, I definitely overpaid for my carpet.",
         author: "Woody Allen",
         profession: "Director",
-        image: "url(https://www.dropbox.com/s/hjb6v5pzfqogzhk/woody-allen.jpg?raw=1)"
+        image: "url(../img/woody-allen.jpg)"
     },
     {
         quote: "I used to sell furniture for a living. The trouble was, it was my own.",
         author: "Les Dawson",
         profession: "Comedian",
-        image: "url(https://www.dropbox.com/s/kgycnm56v6uvc9g/Les-Dawson.jpg?raw=1)"
+        image: "url(../img/Les-Dawson.jpg)"
     },
     {
         quote: "It's amazing that the amount of news that happens in the world every day always just exactly fits the newspaper.",
         author: "Jerry Seinfeld",
         profession: "Comedian",
-        image: "url(https://www.dropbox.com/s/dc50ahgouaw4niy/jerry-seinfeld.jpg?raw=1)"
+        image: "url(../img/jerry-seinfeld.jpg)"
     },
     {
         quote: "My neighbour asked if he could use my lawnmower and I told him of course he could, so long as he didn't take it out of my garden.",
         author: "Eric Morecambe",
         profession: "Comedian",
-        image: "url(https://www.dropbox.com/s/utkd6ruw29la7x8/eric-morecambe.jpg?raw=1)"
+        image: "url(../img/eric-morecambe.jpg)"
     },
     {
         quote: "How long was I in the army? Five foot eleven.",
         author: "Spike Milligan",
         profession: "Comedian",
-        image: "url(https://www.dropbox.com/s/b4a030tent9js9t/spike-milligan.jpg?raw=1)"
+        image: "url(../img/spike-milligan.jpg)"
     },
     {
         quote: "Before you judge a man, walk a mile in his shoes. After that who cares?… He’s a mile away and you’ve got his shoes!",
         author: "Billy Connolly",
         profession: "Comedian",
-        image: "url(https://www.dropbox.com/s/rb33izjtorenghi/billy-connolly.jpg?raw=1)"
+        image: "url(../img/billy-connolly.jpg)"
     },
     {
         quote: "I always arrive late at the office, but I make up for it by leaving early.",
         author: "Charles Lamb",
         profession: "Author",
-        image: "url(https://www.dropbox.com/s/qnve1w4d9hs1kly/charles-lamb.jpg?raw=1)"
+        image: "url(../img/charles-lamb.jpg)"
     },
     {
         quote: "A pessimist is a person who has had to listen to too many optimists.",
         author: "Don Marquis",
         profession: "Humorist",
-        image: "url(https://www.dropbox.com/s/aouvp98f4qjsoc4/don-marquis.jpg?raw=1)"
+        image: "url(../img/don-marquis.jpg)"
     },
     {
         quote: "Happiness is having a large, loving, caring, close-knit family in another city",
         author: "George Burns",
         profession: "Comedian",
-        image: "url(https://www.dropbox.com/s/uz6jc1lrx248hqe/george_burns.jpg?raw=1)"
+        image: "url(../img/george_burns.jpg)"
     },
     {
         quote: "It’s only when you look at an ant through a magnifying glass on a sunny day that you realize how often they burst into flames.",
         author: "Harry Hill",
         profession: "Comedian",
-        image: "url(https://www.dropbox.com/s/m7kgvdu4cidkxr6/harry-hill.jpg?raw=1)"
+        image: "url(../img/harry-hill.jpg)"
     },
     {
         quote: "Never put off till tomorrow what you can do the day after tomorrow.",
         author: "Mark Twain",
         profession: "Writer",
-        image: "url(https://www.dropbox.com/s/pmo9e7v0m3vanfe/mark-twain.jpg?raw=1)"
+        image: "url(../img/mark-twain.jpg)"
     },
     {
         quote: "My doctor told me that jogging could add years to my life. I think he was right. I feel ten years older already.",
         author: "Milton Berle",
         profession: "Comedian",
-        image: "url(https://www.dropbox.com/s/urmrmyj4gc141xl/milton-berle.jpg?raw=1)"
+        image: "url(../img/milton-berle.jpg)"
     },
     {
         quote: "When a man opens a car door for his wife, it’s either a new car or a new wife.",
         author: "Prince Philip",
         profession: "British Prince",
-        image: "url(https://www.dropbox.com/s/y7af5ep7oyigd0u/prince-philip.jpg?raw=1)"
+        image: "url(../img/prince-philip.jpg)"
     },
     {
         quote: "Always borrow money from a pessimist. He won’t expect it back.",
         author: "Oscar Wilde",
         profession: "Poet",
-        image: "url(https://www.dropbox.com/s/i1zblkp650bkfhs/oscar-wilde.jpg?raw=1)"
+        image: "url(../img/oscar-wilde.jpg)"
     },
     {
         quote: "I have learned from my mistakes, and I am sure I can repeat them exactly.",
         author: "Peter Cook",
         profession: "Comedian",
-        image: "url(https://www.dropbox.com/s/sa4mu10omrxd5x1/peter-cook.jpg?raw=1)"
+        image: "url(../img/peter-cook.jpg)"
     },
     {
         quote: "We spend the first twelve months of our children’s lives teaching them to walk and talk and the next twelve telling them to sit down and shut up.",
         author: "Phyllis Diller",
         profession: "Actress",
-        image: "url(https://www.dropbox.com/s/8sbohs7yih4reyt/phyllis-diller.jpg?raw=1)"
+        image: "url(../img/phyllis-diller.jpg)"
     },
     {
         quote: "The man who smiles when things go wrong has thought of someone to blame it on.",
         author: "Robert Bloch",
         profession: "Writer",
-        image: "url(https://www.dropbox.com/s/pc0hu710jp3h05b/robert-bloch.jpg?raw=1)"
+        image: "url(../img/robert-bloch.jpg)"
     },
     {
         quote: "My psychiatrist told me I was crazy and I said I want a second opinion. He said okay, you’re ugly too.",
         author: "Rodney Dangerfield",
         profession: "Comedian",
-        image: "url(https://www.dropbox.com/s/ubvcgxsgyvzpipt/rodney-dangerfield.jpg?raw=1)"
+        image: "url(../img/rodney-dangerfield.jpg)"
     },
     {
         quote: "It’s true hard work never killed anybody, but I figure, why take the chance",
         author: "Ronald Reagan",
         profession: "40th U.S. President",
-        image: "url(https://www.dropbox.com/s/4htttxrfx2bokq5/ronald-reagan.jpg?raw=1)"
+        image: "url(../img/ronald-reagan.jpg)"
     }
 
 
